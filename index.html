@@ -34,13 +34,37 @@
     />
   </head>
   <body>
-    <div class="container-fluid">
-      <h1>Hello World</h1>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <!-- Container wrapper -->
+      <div class="container-fluid justify-content-center">
+        <!-- Navbar Text -->
+        <div class="h1">XML Test</div>
+      </div>
+      <!-- Container wrapper -->
+    </nav>
+    <!-- Navbar -->
+
+    <div class="container mt-5 table-responsive text-nowrap">
+      <table id="employees" class="table table-sm table-hover table-bordered border-secondary">
+        <thead class="table-secondary">
+          <tr>
+            <th>Employee Code</th>
+            <th>First Name</th>
+            <th>Middle Name</th>
+            <th>Last Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
     </div>
     <!-- MDB -->
     <script
       type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"
     ></script>
+    <script src="index.js"></script>
   </body>
 </html>
