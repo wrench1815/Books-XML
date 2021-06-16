@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Employees SYSTEM "EmployeesDTD.dtd">
+<!DOCTYPE Employees SYSTEM "dtds/EmployeesDTD.dtd">
 <Employees>
     <Employee>
         <EmployeeCode>1</EmployeeCode>
