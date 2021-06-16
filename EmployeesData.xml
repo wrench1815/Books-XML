@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Employees SYSTEM "EmployeesDTD.dtd">
+<Employees>
+    <Employee>
+        <EmployeeCode>1</EmployeeCode>
+        <EmployeeFirstName>John</EmployeeFirstName>
+        <EmployeeLastName>Doe</EmployeeLastName>
+        <Department>Sales</Department>
+        <Salary>2000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeCode>2</EmployeeCode>
+        <EmployeeFirstName>Joe</EmployeeFirstName>
+        <EmployeeLastName>Smith</EmployeeLastName>
+        <Department>Management</Department>
+        <Salary>5000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeCode>3</EmployeeCode>
+        <EmployeeFirstName>Eula</EmployeeFirstName>
+        <EmployeeLastName>Lawerence</EmployeeLastName>
+        <Department>Security</Department>
+        <Department>Management</Department>
+        <Salary>10000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeCode>4</EmployeeCode>
+        <EmployeeFirstName>Dio</EmployeeFirstName>
+        <EmployeeMiddleName>Naaf</EmployeeMiddleName>
+        <Department>CEO</Department>
+        <Salary>20000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeCode>5</EmployeeCode>
+        <EmployeeFirstName>Sarah</EmployeeFirstName>
+        <EmployeeLastName>Baal</EmployeeLastName>
+        <Department>HR</Department>
+        <Salary>15000</Salary>
+    </Employee>
+</Employees>
