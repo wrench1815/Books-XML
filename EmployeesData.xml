@@ -11,6 +11,7 @@
     <Employee>
         <EmployeeCode>2</EmployeeCode>
         <EmployeeFirstName>Joe</EmployeeFirstName>
+        <EmployeeMiddleName>Nick</EmployeeMiddleName>
         <EmployeeLastName>Smith</EmployeeLastName>
         <Department>Management</Department>
         <Salary>5000</Salary>
@@ -27,6 +28,7 @@
         <EmployeeCode>4</EmployeeCode>
         <EmployeeFirstName>Dio</EmployeeFirstName>
         <EmployeeMiddleName>Naaf</EmployeeMiddleName>
+        <EmployeeLastName>Chelsea</EmployeeLastName>
         <Department>CEO</Department>
         <Salary>20000</Salary>
     </Employee>
