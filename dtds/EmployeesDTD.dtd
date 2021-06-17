@@ -1,5 +1,5 @@
 <!ELEMENT Employees (Employee*)>
-<!ELEMENT Employee (EmployeeCode, EmployeeFirstName, (EmployeeMiddleName | EmployeeLastName), Department+, Salary)>
+<!ELEMENT Employee (EmployeeCode, EmployeeFirstName, (EmployeeMiddleName | EmployeeLastName)*, Department+, Salary)>
 <!ELEMENT EmployeeCode (#PCDATA)>
 <!ELEMENT EmployeeFirstName (#PCDATA)>
 <!ELEMENT EmployeeMiddleName (#PCDATA)>
